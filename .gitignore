@@ -27,3 +27,9 @@ Temporary Items
 
 ### CMake ###
 cmake-build-*/
+
+### Python Cache ###
+__pycache__/
+*.py[cod]
+*/__pycache__/
+*/.pytest_cache/
