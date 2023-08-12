@@ -1,0 +1,5 @@
+asgiref==3.7.2
+Django @ git+https://github.com/azataiot/fork-django.git@dev
+isort==5.12.0
+Pillow==10.0.0
+sqlparse==0.4.4
