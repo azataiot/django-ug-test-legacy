@@ -84,7 +84,7 @@ As of now, Django 5.0 has not been officially released, and the Uyghur translati
    Use pip to install Django directly from the specific branch of the repository where Uyghur support has been added.
 
    ```bash
-   pip install git+https://github.com/azataiot/fork-django.git@dev#egg=django
+   pip install git+https://github.com/azataiot/django.git@dev#egg=django
    ```
 
 3. **Verify the Installation:**
